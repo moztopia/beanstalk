@@ -1,0 +1,19 @@
+{
+    "name": "moztopia/beanstalk",
+    "description": "Simple cloud interfaces between Laravel and Google Cloud Services.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Moztopia\\Beanstalk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Code Monkeys",
+            "email": "monkeys@moztopia.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

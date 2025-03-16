@@ -1,0 +1,5 @@
+.devcontainer/ export-ignore
+.docker/ export-ignore
+.github/ export-ignore
+.vscode/ export-ignore
+docker-compose.yml export-ignore
